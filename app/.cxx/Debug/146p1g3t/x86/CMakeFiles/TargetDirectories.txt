@@ -1,0 +1,3 @@
+/Users/bytedance/work/AndroidTool/app/.cxx/Debug/146p1g3t/x86/CMakeFiles/utils.dir
+/Users/bytedance/work/AndroidTool/app/.cxx/Debug/146p1g3t/x86/CMakeFiles/edit_cache.dir
+/Users/bytedance/work/AndroidTool/app/.cxx/Debug/146p1g3t/x86/CMakeFiles/rebuild_cache.dir

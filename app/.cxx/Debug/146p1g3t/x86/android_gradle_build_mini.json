@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/bytedance/work/AndroidTool/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/bytedance/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/bytedance/work/AndroidTool/app/.cxx/Debug/146p1g3t/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/bytedance/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/bytedance/work/AndroidTool/app/.cxx/Debug/146p1g3t/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "utils::@6890427a1f51a3e7e1df": {
+      "artifactName": "utils",
+      "abi": "x86",
+      "output": "/Users/bytedance/work/AndroidTool/app/build/intermediates/cxx/Debug/146p1g3t/obj/x86/libutils.so",
+      "runtimeFiles": []
+    }
+  }
+}
