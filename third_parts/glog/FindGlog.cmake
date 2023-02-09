@@ -1,0 +1,5 @@
+if (NOT TARGET arsr::glog)
+    add_library(arsr::glog SHARED IMPORTED)
+    set_target_properties(arsr::glog PROPERTIES IMPORTED_LOCATION ${XR_APP_OS_ROOT}/third_parts/glog/libs/Android/${ANDROID_ABI}/libglog.a)
+endif ()
+include_directories(${XR_APP_OS_ROOT}/third_parts/glog/glog_includes)

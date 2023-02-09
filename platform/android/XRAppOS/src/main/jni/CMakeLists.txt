@@ -1,0 +1,9 @@
+xrappos_cc_submodule(
+        NAME
+            ${XR_APP_OS_TARGET_NAME}
+        HDRS
+            "${CMAKE_CURRENT_LIST_DIR}"
+        SRCS
+            "${CMAKE_CURRENT_LIST_DIR}/xrappos.cpp"
+        DEPS
+)

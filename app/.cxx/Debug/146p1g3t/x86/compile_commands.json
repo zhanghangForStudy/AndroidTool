@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/Users/bytedance/work/AndroidTool/app/.cxx/Debug/146p1g3t/x86",
-  "command": "/Users/bytedance/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android28 --sysroot=/Users/bytedance/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dutils_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fno-limit-debug-info  -fPIC -o CMakeFiles/utils.dir/native-lib.cpp.o -c /Users/bytedance/work/AndroidTool/app/src/main/cpp/native-lib.cpp",
-  "file": "/Users/bytedance/work/AndroidTool/app/src/main/cpp/native-lib.cpp"
-}
-]
